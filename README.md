@@ -19,9 +19,9 @@ Create Kivy App using this KIVY APP MAKER without installing anything on your co
 <i>1) Login to your gmail account first.</i><br>
 <i>2) Open google colab or search in google and click on it. Or go to:-  https://research.google.com/colaboratory/ </i><br>
 <i>3) View uploading1.png</i><br>
-![uploading1](https://user-images.githubusercontent.com/58244986/121742578-a48b1300-cb1d-11eb-9c3c-9651719360f5.png)
+<img src="https://user-images.githubusercontent.com/58244986/121742578-a48b1300-cb1d-11eb-9c3c-9651719360f5.png">
 <br><br>
 <i>4) View uploading2.png</i><br>
-![uploading2](https://user-images.githubusercontent.com/58244986/121742607-ac4ab780-cb1d-11eb-8797-5c389ad05f4d.png)
+<img src="https://user-images.githubusercontent.com/58244986/121742607-ac4ab780-cb1d-11eb-8797-5c389ad05f4d.png">
 <br><br>
 <b><i>Note:- Keep a backup of everything.</i></b><br>
