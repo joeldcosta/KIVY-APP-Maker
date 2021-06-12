@@ -38,3 +38,14 @@ Create Kivy App using this KIVY APP MAKER without installing anything on your co
 @@ text in purple (and bold)@@
 ```
 </h2>
+<h2>
+
+```diff
+- red
++ green
+! orange
+# gray
+@@ text in purple (and bold)@@
+```
+
+</h2>
