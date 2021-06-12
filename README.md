@@ -14,7 +14,7 @@ Create Kivy App using this KIVY APP MAKER without installing anything on your co
   <a href="https://www.youtube.com/watch?v=aRSSj_KOSBY"><img src="https://img.youtube.com/vi/aRSSj_KOSBY/0.jpg" alt="Kivy App Full Tutorial - (Part 2) | Release Mode | kivy android apk | kivy android app tutorial 2021"></a>
 </div>
 
-<h1 style="background-color: coral;">Q. How to use this App?</h1><br>
+<h1>Q. How to use this App?</h1><br>
 <h3>Ans. Steps to follow:-</h3><br>
 <i>1) Login to your gmail account first.</i><br>
 <i>2) Open google colab or search in google and click on it. Or go to:- <a href="https://research.google.com/colaboratory/" target="_blank" rel="noopener">https://research.google.com/colaboratory/</a></i><br>
@@ -29,3 +29,10 @@ Create Kivy App using this KIVY APP MAKER without installing anything on your co
 <h3><i>Support Developer</i></h3><br>
 <a href="https://www.buymeacoffee.com/python4fun" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Beer&emoji=🍺&slug=python4fun&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width=20%></a>
 <br />
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
