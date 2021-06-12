@@ -40,7 +40,7 @@ Create Kivy App using this KIVY APP MAKER without installing anything on your co
 <h2>
   
 ```diff
-- red
+- Kivy is Green @@ text in purple (and bold)@@
 + green
 ! orange
 # gray
