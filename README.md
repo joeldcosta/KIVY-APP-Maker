@@ -6,7 +6,7 @@ Create Kivy App using this KIVY APP MAKER without installing anything on your co
 <br>
 <b>Video 2</b> - https://youtu.be/aRSSj_KOSBY
 <br>
-<div align="center">
+<div align="center" style="background-color: coral;">
   <a href="https://www.youtube.com/watch?v=k12E5jbWqQQ"><img src="https://img.youtube.com/vi/k12E5jbWqQQ/0.jpg" alt="Kivy App Full Tutorial - (Part 1) | Debug Mode | kivy android apk | kivy android app tutorial 2021"></a>
 </div>
 <br>
