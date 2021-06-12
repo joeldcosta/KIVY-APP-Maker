@@ -29,6 +29,9 @@ Create Kivy App using this KIVY APP MAKER without installing anything on your co
 <h3><i>Support Developer</i></h3><br>
 <a href="https://www.buymeacoffee.com/python4fun" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Beer&emoji=🍺&slug=python4fun&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width=20%></a>
 <br />
+<h3><i>Join Google Pay Get Free Cashback</i></h3><br>
+<a href="https://g.co/payinvite/s8jt59" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Join Google Pay&slug=python4fun&button_colour=3A81F1&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=EA4335" width=20%></a>
+<br />
 <h1>
 
   ```diff
