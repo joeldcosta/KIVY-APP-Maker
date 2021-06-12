@@ -1,7 +1,7 @@
 # KIVY APP Maker 🥝
 Create Kivy App using this KIVY APP MAKER without installing anything on your computer. Just upload in google colab and you are good to go.<br>
 <h3>Visit:- https://pysnakeblog.blogspot.com/ </h3><br>
-<b><i color="red">Watch Youtube Video first to understand how it all works:-</i></b> <br>
+<b><i>Watch Youtube Video first to understand how it all works:-</i></b> <br>
 <b>Video 1</b> - https://youtu.be/k12E5jbWqQQ
 <br>
 <b>Video 2</b> - https://youtu.be/aRSSj_KOSBY
@@ -29,17 +29,8 @@ Create Kivy App using this KIVY APP MAKER without installing anything on your co
 <h3><i>Support Developer</i></h3><br>
 <a href="https://www.buymeacoffee.com/python4fun" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Beer&emoji=🍺&slug=python4fun&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width=20%></a>
 <br />
-<h2>
-  
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-  
-</h2>
+# Additional INFO
+# Color CODE that works on README.md
 <h2>
   
 ```diff
