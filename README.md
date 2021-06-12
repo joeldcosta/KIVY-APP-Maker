@@ -40,11 +40,11 @@ Create Kivy App using this KIVY APP MAKER without installing anything on your co
 <h2>
   
 ```diff
-- Kivy is Green @@ text in purple (and bold)@@
-+ green
-! orange
-# gray
-@@ text in purple (and bold)@@
+- 🥝 Kivy App Maker  
++ 🥝 Kivy Run using Python 
+! 🥝 Kivy Can Run in Multiple Platforms
+# 🥝 Kivy is Popular
+@@ I ❤️ 🥝 Kivy @@
 ```
   
 </h2>
