@@ -30,11 +30,11 @@ Create Kivy App using this KIVY APP MAKER without installing anything on your co
 <a href="https://www.buymeacoffee.com/python4fun" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Beer&emoji=🍺&slug=python4fun&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width=20%></a>
 <br />
 <h2>
-*COLOR CODE
 ```diff 
-- red 
-+ green
-! orange
-# gray
+*COLOR CODE
+  - red 
+  + green
+  ! orange
+  # gray
 ```
 </h2>
