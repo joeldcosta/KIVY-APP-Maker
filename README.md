@@ -31,9 +31,7 @@ Create Kivy App using this KIVY APP MAKER without installing anything on your co
 <br />
 <h2>
 
-```
-- yellow
-+ green
+```diff - yellow + green
 ! orange
 # gray
 ```
