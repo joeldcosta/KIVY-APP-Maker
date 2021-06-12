@@ -1,4 +1,4 @@
-# KIVY APP Maker
+# KIVY APP Maker 🥝
 Create Kivy App using this KIVY APP MAKER without installing anything on your computer. Just upload in google colab and you are good to go.<br>
 <h3>Visit:- https://pysnakeblog.blogspot.com/ </h3><br>
 <b><i>Watch Youtube Video first to understand how it all works:-</i></b> <br>
@@ -32,7 +32,7 @@ Create Kivy App using this KIVY APP MAKER without installing anything on your co
 <h2>
 
 ```diff
-- red
+- yellow
 + green
 ! orange
 # gray
